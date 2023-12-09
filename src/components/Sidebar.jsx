@@ -105,7 +105,7 @@ const Sidebar = props => {
             </li>
             <li className="rounded-sm text-sm group hover:bg-slate-600/50 dark:text-gray-400 cursor-pointer transition-colors flex items-center py-2 px-2 gap-4">
               <GlobeAsiaAustraliaIcon className="w-[18px] h-[18px] text-gray-500 group-hover:text-slate-50 duration-75" />
-              <a href="/international" className=" group-hover:text-slate-50 duration-75 capitalize flex-1">
+              <a href="/international/day_pass" className=" group-hover:text-slate-50 duration-75 capitalize flex-1">
                 International
               </a>
             </li>
